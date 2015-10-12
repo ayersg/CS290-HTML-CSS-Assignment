@@ -3,6 +3,11 @@ tbody th {
 	font-weight: normal;
 }
 
+.footer td {
+	background-color: white;
+	border: 1px solid;
+}
+
 table {
 	border: 1px solid;
 }

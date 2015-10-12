@@ -22,3 +22,17 @@ tr:nth-of-type(2n){
 tr:nth-of-type(2n+1) {
 	background-color: aquamarine;
 }
+
+.outer-content {
+	margin-top: 20px;
+	padding: 1em;
+	background-color: pink;
+	width: 75%;
+	align-items: center;
+}
+
+.inner-content {
+	background-color: aquamarine;
+	width: 75%;
+	text-align: center;
+}

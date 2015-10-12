@@ -1,0 +1,10 @@
+tbody.th {
+	font-style: italic;
+}
+
+tr:nth-of-type(2n){
+	background-color: green;
+}
+tr:nth-of-type(2n+1) {
+	background-color: blue;
+}
